@@ -1,0 +1,9 @@
+[servidores]
+Norte = sigma01.ist.utl.pt 8000
+Beiras = sigma04.ist.utl.pt 8000
+Centro = sigma02.ist.utl.pt 8000
+
+
+[timers]
+TConfirmMax = 5
+TLiveMax = 15
